@@ -13,5 +13,5 @@ We hope to have the current software running on android platforms and integrate 
 
 Scope 
 [What will be the end result of the project? Describe here what phases of work will be undertaken.]
-By the end of this project we hope to make a fully functional and robust android application which 
+By the end of this project we hope to make a fully functional and robust android application which can store the Users transaction History and be available for other Times
 
