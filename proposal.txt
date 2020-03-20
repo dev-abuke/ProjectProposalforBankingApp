@@ -1,17 +1,24 @@
 Background: 
 [Why is the project being undertaken? Describe an opportunity or problem that the project is to address.] 
-Mobile Banking has been a day to day activity like transferring money, Recharging phone, paying bills, Buying an airline ticket and many more features, however, several banks provide these features and It becomes tedious to keep track of every number format for every bank account a person may have.
+Mobile Banking, one of the pioneers of fintech can make our day to day activities handy like transferring money, Recharging phone, paying bills, Buying an airline ticket and many more features. Although, several banks provide these features it is  tedious to keep track of every number format for every bank account a person may have.
 For instance, if a person has 3 (Three) bank accounts he would have to remember the number to dial into the phone for every single one of his accounts not to mention the waiting time to process all those steps on the USSD system as well as installing 3 different applications to access their service which again takes up space in users’ phone.
 With our Banking Platform, we will integrate all feature provided by the bank authorities on to a single application (android) which eliminates the above drawbacks besides add new features and functionality.
 
 Objectives and Beneficiaries:
-We hope to have the current software running on android platforms and integrate at least 8 services.
-•	Users will benefit from the simplicity and the vast amount of services to choose from.
-•	Users do not have to waste time inputting numbers to the dial screen
-•	Users don’t have to install more than one application 
-•	Users will continue to benefit from the hands-on experience of working on the platform
+We hope to have the current software running on android platforms and ease the banking activities because:
+  •	Users will benefit from the simplicity and the vast amount of services to choose from.
+  •	Users do not have to waste time inputting numbers to the dial screen
+  •	Users don’t have to install more than one application 
+  •	Users will continue to benefit from the hands-on experience of working on the platform
+All the n activities we plan our app to give will be a tab away, the customers will be able to get the following services on the palms of their hands.
+    • View account balances.
+    • View recent account activity up to n days in the past.
+    • Make person-to-person payments 
+    • recharge their mobile phones
+    • buy flight tickets
+    • pay electric and other utility bills
 
 Scope 
 [What will be the end result of the project? Describe here what phases of work will be undertaken.]
-By the end of this project we hope to make a fully functional and robust android application which can store the Users transaction History and be available for other Times
+By the end of this project we hope to make a fully functional and robust android application which can store the Users transaction history and be available for other times.A scalable and robust app is what we will be working to achieve. 
 
